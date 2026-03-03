@@ -155,7 +155,7 @@ async function processCourseData(lastSemesterCourses) {
 
       const examData = { category, grade, date, stats };
 
-      if (task === "Final A" || task === "Finals" || task === "Exam A") {
+      if (task === "Final_A" || task === "Finals" || task === "Exam A") {
         course.moedA = examData;
       } else if (task === "Final B" || task === "Exam B") {
         course.moedB = examData;
