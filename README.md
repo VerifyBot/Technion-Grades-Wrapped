@@ -4,6 +4,8 @@ A web application that generates a personalized, Spotify-style "Wrapped" present
 
 **Privacy Note:** All data extraction and presentation processing happens entirely client-side. Your academic data is never uploaded to or stored on any external servers.
 
+![alt text](download.png)
+
 ## How to Use
 
 ### 1. Download Your Data (`grades.json`)
